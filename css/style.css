@@ -22,7 +22,7 @@ footer {
   font-size: 14px;
 }
 
-/* ABOUT PAGE */
+
 .video-section {
   position: relative;
   height: 350px;
@@ -52,7 +52,7 @@ footer {
   object-fit: cover;
 }
 
-/* PROJECTS */
+
 .project-card img {
   height: 180px;
   object-fit: cover;
